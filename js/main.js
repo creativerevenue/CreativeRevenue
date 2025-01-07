@@ -35,6 +35,18 @@
       speed: 2000 // How many milliseconds until the next word show.
     }); 
 
+
+/*=========================================================================
+        parallax header
+=========================================================================*/
+
+	     window.addEventListener('scroll', function () {
+    const scrollValue = window.scrollY;
+    const heroSection = document.querySelector('.hero-section');
+    heroSection.style.backgroundPosition = `center ${scrollValue * 0.5}px`;
+});
+
+	     
 /*=========================================================================
         Mobile Menu
 =========================================================================*/  
