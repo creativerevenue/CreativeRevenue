@@ -1,4 +1,5 @@
 ## Hi there 👋
+CreativeRevenue is here to help creative freelancers get paid and speed up delayed invoices.
 
 <!--
 **creativerevenue/creativerevenue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
